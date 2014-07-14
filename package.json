@@ -1,0 +1,11 @@
+{
+  "name"         : "ejemploMEAN",
+  "version"      : "0.0.1",
+  "description"  : "Sencilla app con MEAN",
+  "main"         : "server.js",
+  "author"       : "Ricardo Moya",
+  "dependencies" : {
+    "express"    : "~3.4.4",
+    "mongoose"   : "~3.6.2"
+  }
+}
