@@ -3,6 +3,9 @@ MEAN_ejemplo
 
 Sencillo ejemplo de una aplicación hecha en MEAN (Mongo-Express-Angular-Node)
 
-Dentro de este proyecto se encuentra la carpeta Vagrant para que podais ejecutar el proyecto utilizando un entorno de desarrollo virtualizado.
+Para poder ejecutar este proyecto teneis que:
+  1.- Instalar MongoDB
+  2.- Instalar express
+  3.- Instalar NodeJS
 
-Para saber más sobre como crear entornos de desarrollo virtualizados, ver el siguiente tutorial: http://jarroba.com/como-crear-entornos-de-desarrollo-con-vagrant-y-puppet/
+Se recomienda ejecutar este proyecto en un Linux o Unix ya que la instalación de MongoDB y sobre todo de Express y NodeJS en un Sistema Operativo Windows es bastante tediosa.
